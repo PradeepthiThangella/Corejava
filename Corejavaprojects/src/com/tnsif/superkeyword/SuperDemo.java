@@ -1,6 +1,6 @@
 package com.tnsif.superkeyword;
 
-public class Demo extends Superex {
+public class SuperDemo extends superex {
 	
 	int a=7;
 	
@@ -15,12 +15,12 @@ public class Demo extends Superex {
 		super.drinking();
 		
 	}
-	Demo(){
+	SuperDemo(){
 	
 		super();
 }
 	public static void main(String[] args) {
-		Demo d=new Demo();
+		SuperDemo d=new SuperDemo();
 		
 		d.display();
 	}

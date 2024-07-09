@@ -6,7 +6,7 @@ int a=20;
 	void drinking() {
 		System.out.println("coffe");
 	}
-	Superex() 
+	superex() 
 	{
 		System.out.println("hello");
 	}
