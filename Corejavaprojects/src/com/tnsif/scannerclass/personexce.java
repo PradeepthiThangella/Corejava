@@ -10,7 +10,7 @@ public class personexce
 		    	System.out.println("Enter person income ");
 		    	int income = sc.nextInt();
 		    	
-		    	Personsincome pp = new Personsincome();
+		    	persons_income pp = new persons_income();
 		    	pp.setName(name);
 		    	pp.setIncome(income);
 		    	
